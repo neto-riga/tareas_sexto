@@ -1,6 +1,6 @@
-Id, nombre, grado, bolts, longitud
-ruta001, Alquimista, 5.11b, 7, 16
-ruta002, Vasectomia, 5.12-, 7, 16
-ruta003, Dr. Chunga, 5.10+, 12, 24
-ruta004, T.O.C, 5.9, 7, 15
-ruta005, Migraña, 5.11-, 6, 13
+Id,nombre,grado,bolts,longitud
+ruta001,Alquimista,5.11b,7,16
+ruta002,Vasectomia,5.12-,7,16
+ruta003,Dr.Chunga,5.10+,12,24
+ruta004,T.O.C,5.9,7,15
+ruta005,Migraña,5.11-,6,13
